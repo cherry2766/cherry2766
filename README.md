@@ -21,7 +21,7 @@
 ## ✦ Projects
 
 ### 🎫 [TicketingMaster](https://github.com/MLP-Ticketing-Master/ticketingMaster)
-**eSports Ticket Booking Platform** · 3인 팀 <br>
+**eSports Ticket Booking Platform** · 3인 팀 프로젝트<br>
 대기열 · 좌석 선점 · 결제 시스템의 동시성 제어
 
 ![Java](https://img.shields.io/badge/Java_21-007396?style=flat&logo=openjdk&logoColor=white)
